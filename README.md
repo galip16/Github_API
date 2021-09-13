@@ -1,6 +1,6 @@
 # Github_API
 
-### In this app you will find the most popular repositories on github.  You will also be able to see the repositories of the username you want.
+### In this app you will find the most popular repositories on github.  by searching for the username, you will be able to get that person's repositories.
 
 
 #### Getting Started with Create React App
